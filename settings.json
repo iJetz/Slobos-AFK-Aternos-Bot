@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "motlgat.aternos.me:20027",
+    "ip": "motlgat.aternos.me",
     "port": 20027,
     "version": "",
     "try-creative": false
