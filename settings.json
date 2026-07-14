@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "afkBOT00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "motlgat.aternos.me",
